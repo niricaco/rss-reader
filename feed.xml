@@ -1,0 +1,35 @@
+<news>
+  <item>
+    <title>
+      Politics
+    </title>
+    <description>
+      Daily news
+    </description>
+    <link>
+      https://www.google.com
+    </link>
+  </item>
+  <item>
+    <title>
+      Sport
+    </title>
+    <description>
+      Sport news
+    </description>
+    <link>
+      https://www.google.com
+    </link>
+  </item>
+  <item>
+    <title>
+      Movies
+    </title>
+    <description>
+      Best movies
+    </description>
+    <link>
+      https://www.google.com
+    </link>
+  </item>
+</news>
