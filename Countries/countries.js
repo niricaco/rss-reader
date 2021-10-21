@@ -1,5 +1,5 @@
 function loadCountry() {
-    fetch("https://restcountries.com/v3.1/name/peru").then(r => r.json()).then(showCountry);
+    fetch("https://restcountries.com/v3.1/name/hungary").then(r => r.json()).then(showCountry);
 }
 
 function showCountry(country) {
